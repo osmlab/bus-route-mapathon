@@ -1,11 +1,12 @@
 # Bus Stop Survey
 
-route: <input type="text" /><br/>
-date: <input type="text" /><br/>
-time: <input type="text" /><br/>
-surveyor: <input type="text" /><br/>
-operator: <input type="text" /><br/>
-route name: <input type="text" /><br/>
+-- | --
+route | <input type="text" />
+date | <input type="text" />
+time | <input type="text" />
+surveyor | <input type="text" />
+operator | <input type="text" />
+route name | <input type="text" />
 
 # Glossary
 

@@ -1,6 +1,8 @@
+# Bus Route Mapping Guide
+
 This guide will help you in surveying bus routes and bus stops.
 
-# Data to Capture
+## Data to Capture
 * The operator of the bus route
 * The name of the bus route
 * The route (gps trace) of teh bus route
@@ -11,7 +13,7 @@ This guide will help you in surveying bus routes and bus stops.
   * is there shelter, light, bench
   * other operators that stop here
 
-# What to Do
+## What to Do
 
 1. Charge your batteries the night before!
 1. Pick a bus route that hasn’t been mapped yet.
@@ -34,16 +36,16 @@ This guide will help you in surveying bus routes and bus stops.
     Is there shelter from the rain/sun?
     What other bus stops are here?
 
-# Smart Phone Tools
+## Smart Phone Tools
 
 * Android: [OSM Tracker](https://play.google.com/store/apps/details?id=me.guillaumin.android.osmtracker&hl=en), [Maps.me](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro&hl=en), [OSMAnd](https://play.google.com/store/apps/details?id=net.osmand&hl=en), [Mapillary](https://play.google.com/store/apps/details?id=app.mapillary&hl=en)
 * iOS: Maps.me, OSMAnd, GoMap!, Mapillary
 
-## OSMTracker
+### OSMTracker
 
 In OSMTracker, start a new GPS trace when you get onto the bus.  Take note of the bus stop where you started.
 
-# Reference
+## Reference
 
 * https://wiki.openstreetmap.org/wiki/Buses
 * https://wiki.openstreetmap.org/wiki/Proposed_features/Public_Transport

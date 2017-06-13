@@ -1,11 +1,11 @@
 # Bus Stop Survey
 
-  route: <input type="text" />
-  date: <input type="text" />
-  time: <input type="text" />
-  surveyor: <input type="text" />
-  operator: <input type="text" />
-  route name: <input type="text" />
+route: <input type="text" /><br/>
+date: <input type="text" /><br/>
+time: <input type="text" /><br/>
+surveyor: <input type="text" /><br/>
+operator: <input type="text" /><br/>
+route name: <input type="text" /><br/>
 
 # Glossary
 
@@ -42,4 +42,31 @@ seq | name | ref/id # | shelter | bench | light | other routes | other networks
 21 | | | | | | | 
 22 | | | | | | | 
 23 | | | | | | | 
+24 | | | | | | | 
+25 | | | | | | | 
+26 | | | | | | | 
+27 | | | | | | | 
+28 | | | | | | | 
+29 | | | | | | | 
+30 | | | | | | | 
+31 | | | | | | | 
+32 | | | | | | | 
+33 | | | | | | | 
+34 | | | | | | | 
+35 | | | | | | | 
+36 | | | | | | | 
+37 | | | | | | | 
+38 | | | | | | | 
+39 | | | | | | | 
+40 | | | | | | | 
+41 | | | | | | | 
+42 | | | | | | | 
+43 | | | | | | | 
+44 | | | | | | | 
+45 | | | | | | | 
+46 | | | | | | | 
+47 | | | | | | | 
+48 | | | | | | | 
+49 | | | | | | | 
+50 | | | | | | | 
 

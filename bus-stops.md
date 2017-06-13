@@ -1,12 +1,12 @@
 # Bus Stop Survey Sheet
 
 -- | --
+operator | <input type="text" />
 route | <input type="text" />
 date | <input type="text" />
 time | <input type="text" />
 surveyor | <input type="text" />
-operator | <input type="text" />
-route name | <input type="text" />
+notes | <input type="text" />
 
 # Glossary
 

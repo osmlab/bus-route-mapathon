@@ -1,4 +1,4 @@
-# Bus Stop Survey
+# Bus Stop Survey Sheet
 
 -- | --
 route | <input type="text" />

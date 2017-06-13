@@ -34,10 +34,10 @@ This guide will help you in surveying bus routes and bus stops.
     Is there shelter from the rain/sun?
     What other bus stops are here?
 
-# Smart Phone TOols
+# Smart Phone Tools
 
-Android: [OSM Tracker](https://play.google.com/store/apps/details?id=me.guillaumin.android.osmtracker&hl=en), [Maps.me](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro&hl=en), [OSMAnd](https://play.google.com/store/apps/details?id=net.osmand&hl=en), [Mapillary](https://play.google.com/store/apps/details?id=app.mapillary&hl=en)
-iOS: Maps.me, OSMAnd, GoMap!, Mapillary
+* Android: [OSM Tracker](https://play.google.com/store/apps/details?id=me.guillaumin.android.osmtracker&hl=en), [Maps.me](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro&hl=en), [OSMAnd](https://play.google.com/store/apps/details?id=net.osmand&hl=en), [Mapillary](https://play.google.com/store/apps/details?id=app.mapillary&hl=en)
+* iOS: Maps.me, OSMAnd, GoMap!, Mapillary
 
 ## OSMTracker
 

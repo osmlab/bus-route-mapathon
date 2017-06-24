@@ -1,9 +1,9 @@
 # Bus Stop Survey Sheet
 
-1. Print out thiss sheet.
-1. Survey the bus route.
+1. Print out this sheet.
+1. Survey the stops along a bus route.
 1. Take a picture and email to ?
-1. Use Id/JOSM to edit the map.
+1. Use Id/JOSM to edit the map adding information captured during the survey.
 
 -- | --
 operator | <input type="text" />
@@ -15,11 +15,14 @@ notes | <input type="text" />
 
 # Glossary
 
+* seq: Route number
+* name: Local name of the stop, if any
 * ref/id #: An identification number for the bus stop
-* shelter: covered shelter from the sun and rain
-* shelter: Is there shelter from the sun and rain?
-* bench: Is there a bench to sit on?
-* light: Is it light at night?  If surveyed during the day write "lamp" if there's a street lamp by the bus stop.
+* shelter: Is there shelter from the sun and rain? Yes/No
+* bench: Is there a bench to sit on? Yes/No
+* light: Is the bus stop lit at night? Yes/No If surveyed during the day write "lamp" if there's a street lamp by the bus stop.
+* other routes: Other routes that service this stop
+* other networks: Other transit networks that service this stop
 
 
 seq | name | ref/id # | shelter | bench | light | other routes | other networks

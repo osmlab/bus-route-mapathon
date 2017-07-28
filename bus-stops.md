@@ -1,16 +1,15 @@
 # Bus Stop Survey Sheet
 
-1. Print out thiss sheet.
+1. Print out this sheet.
 1. Survey the bus route.
-1. Take a picture and email to ?
+1. Take a picture of this form and email to brian@derocher.org.
 1. Use Id/JOSM to edit the map.
 
 -- | --
-operator | <input type="text" />
+network | <input type="text" />
 route | <input type="text" />
-date | <input type="text" />
-time | <input type="text" />
-surveyor | <input type="text" />
+date and time | <input type="text" />
+surveyor name and OSM username | <input type="text" />
 notes | <input type="text" />
 
 # Glossary

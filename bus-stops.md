@@ -24,11 +24,11 @@ notes | <input type="text" />
 
 seq | name | ref/id # | shelter | bench | light | other routes | other networks
 --- | ---- | -------- | ------- | ----- | ----- | ------------ | --------------
-42 | Example Street | 111342 | yes | unknown | yes | 10A, 12B | DASH, County Connector
-1 | | | | | | | 
-2 | | | | | | | 
-3 | | | | | | | 
-4 | | | | | | | 
+###42 | Example Street | 111342 | yes | unknown | yes | 10A, 12B | DASH, County Connector
+###1 | | | | | | | 
+###2 | | | | | | | 
+###3 | | | | | | | 
+###4 | | | | | | | 
 5 | | | | | | | 
 6 | | | | | | | 
 7 | | | | | | | 
